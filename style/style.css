@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    padding: 1px;
+}
+
+.heading {
+    font-family: helvetica;
+    background: linear-gradient(navy, skyblue);
+    padding: 1px;
+    margin: 0 auto;
+}
+
+.heading h1 {
+    font-size: 72px;
+    font-weight: bold;
+    background: -webkit-radial-gradient(gold, #333);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
+.main {
+    background-color: whitesmoke;
+}
+
+.appFrame {
+    border: 1px solid whitesmoke;
+}
+
+get-login-name {
+    font-family: 'Courier New';
+    color: lime;
+}
+
+get-password {
+    font-family: 'Courier New';
+    color: lime;
+}
